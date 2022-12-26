@@ -1,9 +1,9 @@
 import React from 'react';
-import titulo from '../Images/Logo.png';
+import imagenes from '../Images/imagenes';
 
 const Title = ()=>{
     return(
-        <img src={titulo} alt='No se ha encontrado la imagen'/>
+        <img src={imagenes.logo} width="250px" alt='No se ha encontrado la imagen'/>
     )
 }
 
