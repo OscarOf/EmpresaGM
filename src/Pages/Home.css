@@ -1,4 +1,20 @@
 .Home {
     text-align: center;
   }
+
+.title{
+  margin-top: 2%;  
+}
+
+.textblock{
+  margin-top: 3%;
+}
+
+.card{
+  margin-top: 5%;
+  margin-bottom: 10.5%;
+}
   
+footer{
+  overflow-x: hidden;  
+}

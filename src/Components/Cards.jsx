@@ -38,7 +38,7 @@ const Cards = () => {
                             <img className="card-img-top" src={imagenes.Imag3} height="270px" alt="No se encuentra la imagen" />
                             <div className="card-body">
                                 <h5 className="card-title">Ventajas de nuestros servicios</h5>
-                                <p className="card-text">-Todos nuestros servicios cuentan con garantía, contamos con transporte y logística para desplazarnos, manejamos todas las marcas</p>                               
+                                <p className="card-text">-Todos nuestros servicios cuentan con garantía, contamos con transporte y logística para desplazarnos, m   anejamos todas las marcas</p>                               
                             </div>
                         </div>
                     </div>

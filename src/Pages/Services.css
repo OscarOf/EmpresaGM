@@ -1,0 +1,28 @@
+.contenedor{
+    text-align: center;
+}
+
+.title{
+   text-align: center;   
+}
+
+.barra{
+    font-size: 1.3em;
+}
+
+.activo{
+    margin-left: 30%;
+}
+
+.slide{
+    margin-bottom: 3%;
+}
+
+.boton{
+    text-align: center;
+    margin-bottom: 1%;
+}
+
+footer{
+    overflow-x: hidden; 
+}

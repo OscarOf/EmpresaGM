@@ -7,5 +7,5 @@ export default {
     "logo": Logo,
     "Imag1": Imag1,
     "Imag2": Imag2,
-    "Imag3": Imag3
+    "Imag3": Imag3,    
 }
