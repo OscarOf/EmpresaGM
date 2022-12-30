@@ -5,7 +5,7 @@ import Services from "../Pages/Services";
 
 export const router = createBrowserRouter([
     {
-        path: "/",
+        path: "/Home",
         element: <Home />
     },
     {
