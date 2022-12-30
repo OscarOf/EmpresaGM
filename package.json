@@ -1,6 +1,5 @@
 {
   "name": "empresagm",
-  "homepage": "https://oscarof.github.io/EmpresaGM",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
