@@ -6,15 +6,22 @@ Para el proyecto se implementó un React-router-dom, se creó un archivo que fun
 
 ![image](https://user-images.githubusercontent.com/114504563/210119616-d3278951-f56c-463a-b0a2-c34c1048c3bd.png)
 
+Se puede descartar el archivo App.js puesto que todas las rutas se involucran mediante el (Hashrouter) y lo recibe un (RouterProvider). Al modificarse este se podría presentar fallos a la hora de visibilizar el contenido de la Web.
+  
+![image](https://user-images.githubusercontent.com/114504563/210119906-7891416a-196f-491f-ad57-b6198de1cce4.png)
 
 ## Imágenes
 
-Para consolidar el manejo de imágenes se utilizó un archivo, el cual se describe como una galeria o colección de imágenes las cuales pueden ser llamadas o convocadas mediante el objeto y su respectivos atributos
+Para consolidar el manejo de imágenes se utilizó un archivo, el cual se describe como una galeria o colección de imágenes las cuales pueden ser llamadas o convocadas mediante el objeto y su respectivos atributos.
 
 ![image](https://user-images.githubusercontent.com/114504563/210119845-f986343d-2a50-448d-86be-e82bb3b1f04d.png)
 
+Un ejemplo de implementación:
 
-### `npm test`
+![image](https://user-images.githubusercontent.com/114504563/210120191-8bbbb1b7-742c-4fcb-9931-d8a58575b1ac.png)
+
+
+## 
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
