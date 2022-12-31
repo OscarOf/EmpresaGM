@@ -1,18 +1,18 @@
-# Getting Started with Create React App
+# GM
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Configuración de Rutas
 
-## Available Scripts
+Para el proyecto se implementó un React-router-dom, se creó un archivo que funciona como componente de react el cual facilita las rutas dentro de la web y se llaman mediante el nombre que se haya asignado en el archivo anteriormente descrito.
 
-In the project directory, you can run:
+![image](https://user-images.githubusercontent.com/114504563/210119616-d3278951-f56c-463a-b0a2-c34c1048c3bd.png)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Imágenes
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Para consolidar el manejo de imágenes se utilizó un archivo, el cual se describe como una galeria o colección de imágenes las cuales pueden ser llamadas o convocadas mediante el objeto y su respectivos atributos
+
+![image](https://user-images.githubusercontent.com/114504563/210119845-f986343d-2a50-448d-86be-e82bb3b1f04d.png)
+
 
 ### `npm test`
 
