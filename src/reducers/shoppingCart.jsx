@@ -8,12 +8,33 @@ export const productsInitialState={
         },
         {
             "id":2,
-            "name":"Equipos Industriales"
+            "name":"Minisplit"
         },
         {
             "id":3,
-            "name":"Hidrobombas"
+            "name":"Cassette"
+        },
+        {
+            "id":4,
+            "name":"Piso Techo"
+        },
+        {
+            "id":5,
+            "name":"Aire Centrales"
+        },
+        {
+            "id":6,
+            "name":"Motobombas"
+        },
+        {
+            "id":7,
+            "name":"Hidroflops"
+        },
+        {
+            "id":8,
+            "name":"Automatización"
         }
+
     ],
     cart:[]    
 }
